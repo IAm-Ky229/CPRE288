@@ -17,4 +17,4 @@ Communicate with the Roomba via PuTTy. Pressing a key on the computer should res
 More communication with UART / PuTTy. Send characters from the Roomba to the computer, and display them in the PuTTy terminal.
 
 ###### Lab 6
-
+Convert an analog signal to a digital signal. Calibrate an IR sensor by taking measurments and plotting data to find the pattern in distance measurment.
