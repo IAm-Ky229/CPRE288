@@ -18,3 +18,6 @@ More communication with UART / PuTTy. Send characters from the Roomba to the com
 
 ###### Lab 6
 Convert an analog signal to a digital signal. Calibrate an IR sensor by taking measurments and plotting data to find the pattern in distance measurment.
+
+###### Lab 7
+Use a PWM signal to measure distance. A PING sensor sends out a wave travelling at the speed of sound, that will eventually come back and "hit" the sensor. Use the modulated wave's "high" time to determine distance from objects.
