@@ -8,3 +8,6 @@ Display a rotating banner on the LCD screen that is 20 characters wide. Useful f
 Start to move the Roomba. Robot should be able to process a hit on its bumpers and be able to "go around" the obstacle.
 
 ###### Lab 3
+Communication with the Roomba via PuTTy. Process pushbutton events and display different messages on the LCD depending on the pushed button.
+
+###### Lab 4
