@@ -13,4 +13,5 @@ Process pushbutton events and display different messages on the LCD depending on
 ###### Lab 4
 Communicate with the Roomba via PuTTy. Pressing a key on the computer should result in an event occurring with the roomba (distance measurment, movement, etc).
 
-
+###### Lab 5
+More communication with UART / PuTTy. Send characters from the Roomba to the computer, and display them in the terminal.
