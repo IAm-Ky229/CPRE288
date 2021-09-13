@@ -1,5 +1,5 @@
-# CPRE 288
-This was introductory course in embedded systems. We programmed Roomba sensors to perform specific tasks in each lab. The end goal was to create a final project that could navigate using the sensors on the robot alone.
+# CPRE 288 (Spring 2020)
+This was introductory course in embedded systems. We programmed Roomba sensors to perform specific tasks in each lab. The end goal was to create a final project that could navigate using the sensors on the robot alone. The end of this semester produced some challenges to completing the final project as COVID caused everything to suddently go online.
 
 ###### Lab 1
 Display a rotating banner on the LCD screen that is 20 characters wide. Useful for displaying data in real time.
