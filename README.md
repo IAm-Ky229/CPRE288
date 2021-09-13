@@ -26,4 +26,4 @@ Use a PWM signal to measure distance. A PING sensor sends out a wave travelling 
 Begin using the servo. Move the servo to a specific location (number of degrees). Important lab as moving the servo allows us to move the IR sensor and PING sensor. The next lab utilized the servo functionality.
 
 ###### Lab 9
-Use the servo, to move the IR and PING sensor. By "rotating" the IR and PING sensors, we can determine the width of objects in front of the robot. We used the IR sensor to locate items, and the PING sensor to measure their actual distance. The arclength formula came in very handy for this lab, essentially using an angle and a radius to approximate object width.
+Use the servo to move the IR and PING sensor. By "rotating" the IR and PING sensors, we can determine the width of objects in front of the robot. We used the IR sensor to locate items, and the PING sensor to measure their actual distance. The arclength formula came in very handy for this lab, essentially using an angle and a radius to approximate object width.
